@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-56,
+				-15
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				15
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-4,
+				-28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				15
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-67,
+				-25
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				15
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-30,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				15
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-16,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle angyy"
+		},
+		{
+			"offsets": [
+				-18,
+				-21
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle angyy"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic_mad",
+	"position": [
+		-50,
+		-80
+	],
+	"healthicon": "sonic-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		75,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
