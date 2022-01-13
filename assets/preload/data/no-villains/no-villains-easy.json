@@ -10187,7 +10187,7 @@
 		"sliderVelocities": null,
 		"song": "No-Villains",
 		"needsVoices": true,
-		"stage": "exampleStage",
+		"stage": "stage",
 		"validScore": true,
 		"bpm": 200,
 		"speed": 3.1
