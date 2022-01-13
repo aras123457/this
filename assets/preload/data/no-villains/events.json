@@ -1,7 +1,7 @@
 {
 	"song": {
 		"speed": 3.1,
-		"stage": "exampleStage",
+		"stage": "stage",
 		"player1": "bf2",
 		"player2": "sonic",
 		"player3": "gf",
